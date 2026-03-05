@@ -29,7 +29,7 @@ REST API для учета обслуживания автомобилей в а
 
 
 
-git clone https://github.com/Patayyo/AutoRepairShop
+git clone https://github.com/Patayyo/AutoRepairShop.git
 
 
 
