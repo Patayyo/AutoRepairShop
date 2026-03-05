@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AutoRepairShop.Application/AutoRepairShop.Application.csproj" Id="1ec76482-9030-4552-85a2-98ad52bde71d" />
+  <Project Path="AutoRepairShop.Domain/AutoRepairShop.Domain.csproj" Id="a2c280bb-3e7f-4bb7-bcc8-15b369026a56" />
+  <Project Path="AutoRepairShop.Infrastructure/AutoRepairShop.Infrastructure.csproj" Id="777a6169-a17a-4611-b256-0bfafbff2996" />
+  <Project Path="AutoRepairShop/AutoRepairShop.Web.csproj" />
+</Solution>
