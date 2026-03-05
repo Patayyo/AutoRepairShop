@@ -1,4 +1,4 @@
-\# AutoRepairShop API
+AutoRepairShop API
 
 REST API для учета обслуживания автомобилей в автосервисе.
 
@@ -21,7 +21,7 @@ REST API для учета обслуживания автомобилей в а
 
 
 
-\# Запуск проекта
+Запуск проекта
 
 
 
@@ -47,7 +47,7 @@ dotnet run --project AutoRepairShop\\AutoRepairShop.Web.csproj
 
 
 
-\# Swagger
+Swagger
 
 
 
